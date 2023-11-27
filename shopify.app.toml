@@ -2,7 +2,7 @@
 
 name = "rtfm"
 client_id = "1c5487352699fc307724640edf7dbf77"
-application_url = "https://quantum-bg-fl-invitation.trycloudflare.com"
+application_url = "https://llp-arrest-filme-decline.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://quantum-bg-fl-invitation.trycloudflare.com/auth/callback",
-  "https://quantum-bg-fl-invitation.trycloudflare.com/auth/shopify/callback",
-  "https://quantum-bg-fl-invitation.trycloudflare.com/api/auth/callback",
-  "https://quantum-bg-fl-invitation.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://llp-arrest-filme-decline.trycloudflare.com/auth/callback",
+  "https://llp-arrest-filme-decline.trycloudflare.com/auth/shopify/callback",
+  "https://llp-arrest-filme-decline.trycloudflare.com/api/auth/callback",
+  "https://llp-arrest-filme-decline.trycloudflare.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
